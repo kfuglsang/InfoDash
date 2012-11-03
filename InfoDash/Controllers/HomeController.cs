@@ -10,7 +10,7 @@ namespace InfoDash.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.CompanyName = "Agidon A/S";
+            ViewBag.CompanyName = "SomeCompany";
 
             return View();
         }
